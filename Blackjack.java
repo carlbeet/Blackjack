@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class Blackjackcopy2 {
+public class Blackjack {
 
 
 
